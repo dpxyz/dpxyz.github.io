@@ -1,5 +1,1 @@
-$ npm install prerender
-const prerender = require('prerender');
-const server = prerender();
-server.start();
-curl http://localhost:3000/render?url=https://www.example.com/
+<iframe src="notion.html" style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);"></iframe>
